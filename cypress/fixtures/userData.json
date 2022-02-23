@@ -1,0 +1,11 @@
+{
+  "accessCode": "Q9L47Q",
+  "invalidAccessCode":"aaaaaA",
+  "parentFirstName": "John",
+  "parentLastName": "Doe",
+  "email": "test102@gmail.com",
+  "childFirstName": "John",
+  "ChildLatName": "Doe",
+  "teacher": "Anna Smith",
+  "group": "2B"
+}
