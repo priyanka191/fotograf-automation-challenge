@@ -1,0 +1,17 @@
+{
+  "pageLoadTimeout": 20000,
+  "defaultCommandTimeout": 10000,
+  "chromeWebSecurity": false,
+  "baseUrl": "https://testaccus.gotphoto.com",
+  "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "reporterEnabled": "mochawesome",
+        "mochawesomeReporterOptions": {
+            "reportDir": "cypress/reports/mocha",
+            "quite": true,
+            "overwrite": false,
+            "html": false,
+            "json": true
+        }
+    }
+}
